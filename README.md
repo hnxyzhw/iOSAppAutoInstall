@@ -1,3 +1,5 @@
+介绍
+
 # iOSAppAutoInstall
 
 通itms-services://协议安装ipa，省去https环境的搭建，和SSL证书的配置
@@ -11,3 +13,5 @@
 ## 安装APP时需要配置的链接
 
 `"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/hnxyzhw/iOSAppAutoInstall/master/manifest.plist"`
+
+
